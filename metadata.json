@@ -1,0 +1,7 @@
+{
+  "name": "17 Famille Chrétiènne Foi Parfaite",
+  "description": "A highly modern, iOS-inspired secure entry system featuring localized interfaces and glassmorphism design.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
